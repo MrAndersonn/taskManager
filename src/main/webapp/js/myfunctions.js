@@ -1,3 +1,4 @@
+//WalkingBjorn was here
 function sendAjax() {
 
     // get inputs
