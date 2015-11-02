@@ -1,4 +1,5 @@
 //WalkingBjorn was here
+//gitignore test
 function sendAjax() {
 
     // get inputs
