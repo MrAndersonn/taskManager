@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spring-data-rest-angular:war">
-    <output-path>$PROJECT_DIR$/spring-data-rest-angular-sample/target</output-path>
-    <root id="archive" name="spring-data-rest-angular-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="spring-data-rest-angular:war exploded" />
-    </root>
-  </artifact>
-</component>
