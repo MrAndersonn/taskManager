@@ -113,3 +113,4 @@ taskManagerModule.directive('ngConfirmClick', [
              }
          };
  }]);
+//Here is no function for task delete!!!
